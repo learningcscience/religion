@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="uft-8">
+</head>
+<style>
+</style>
+<body>
+<div class="main">
+	<a href="#">Home</a>
+	<a href="#">About us</a>
+	<a href="#">Temple</a>
+	<a href="#">photos</a>
+
+</div>
+</body>
+</html>
